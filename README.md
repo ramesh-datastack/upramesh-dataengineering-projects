@@ -19,3 +19,6 @@ This is a full-stack data engineering portfolio project simulating an e-commerce
 5. **Analytics** – Streamlit dashboard for insights
 
 ## 📁 Folder Structure
+=======
+# ur-ecommerce-data-pipeline
+A full-stack data engineering portfolio project with ingestion, batch processing, star schema modeling, orchestration, and analytics dashboard.
